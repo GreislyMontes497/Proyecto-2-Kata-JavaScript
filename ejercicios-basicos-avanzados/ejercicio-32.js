@@ -23,5 +23,5 @@ function findOldestXMen(xMen) {
   }
   return oldest; 
 }
-const oldestMutant = findLongestWord (xMen);
+const oldestMutant = findOldestXMen (xMen);
 console.log (oldestMutant);
